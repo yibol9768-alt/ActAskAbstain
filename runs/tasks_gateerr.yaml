@@ -1,0 +1,16 @@
+tasks:
+- category: emergent_risk_discovery
+  task_id: preview_008
+  task_type: act
+- category: emergent_risk_discovery
+  task_id: preview_019
+  task_type: act
+- category: emergent_risk_discovery
+  task_id: preview_024
+  task_type: act
+- category: high_stakes_action
+  task_id: preview_023
+  task_type: act
+- category: high_stakes_action
+  task_id: preview_023
+  task_type: abstain

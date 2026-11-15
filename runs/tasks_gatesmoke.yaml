@@ -1,0 +1,13 @@
+tasks:
+- category: conflicting_constraints
+  task_id: preview_019
+  task_type: act
+- category: conflicting_constraints
+  task_id: preview_019
+  task_type: abstain
+- category: conflicting_evidence
+  task_id: preview_009
+  task_type: act
+- category: conflicting_evidence
+  task_id: preview_009
+  task_type: abstain

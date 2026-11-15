@@ -1,0 +1,7 @@
+tasks:
+- {category: ambiguous_action_specification, task_id: preview_002, task_type: abstain}
+- {category: conflicting_constraints, task_id: preview_006, task_type: abstain}
+- {category: conflicting_constraints, task_id: preview_022, task_type: act}
+- {category: conflicting_constraints, task_id: preview_023, task_type: act}
+- {category: conflicting_constraints, task_id: preview_023, task_type: abstain}
+- {category: missing_critical_parameter, task_id: preview_003, task_type: abstain}
